@@ -59,20 +59,23 @@ Data Preprocessing:
 - Scatter plots comparing top-performing bowlers.
 
 6️⃣ **Super 12 Dashboard:**
+
 Allows users to create their own dream team of top 12 players based on performance metrics.
 
 **Challenges & Solutions** 🔄
 
 **Challenges Faced:**
 
-Handling missing data in player stats & match outcomes.
-Ensuring consistency in dataset merging across different formats.
-Creating optimized dashboards for quick performance evaluation.
+- Handling missing data in player stats & match outcomes.
+- Ensuring consistency in dataset merging across different formats.
+- Creating optimized dashboards for quick performance evaluation.
 
 **Solutions Implemented:**
 
 ✔ Filled missing values using logical imputation methods.
+
 ✔ Standardized player names and match identifiers for smooth merging.
+
 ✔ Designed dashboards for real-time interaction with performance data.
 
 
