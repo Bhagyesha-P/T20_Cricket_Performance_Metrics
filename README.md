@@ -8,10 +8,15 @@ Cricket is more than just a sport; it's a data-rich game that demands deep analy
 
 **Key Features** 🚀
 
+
 ✔ Player & Team Analysis – Examine top batters, bowlers, and all-rounders based on performance metrics.
+
 ✔ Performance Trends – Analyze strike rates, economy rates, and scoring patterns across multiple matches.
+
 ✔ Interactive Dashboards – Explore insights using dynamic Power BI visualizations for easy interpretation.
+
 ✔ Match Outcome Predictions – Utilize historical data to identify winning patterns and key game influencers.
+
 ✔ Data Cleaning & Transformation – Process raw datasets into structured insights for effective visualization.
 
 **Intended Audience** 🎯
