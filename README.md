@@ -29,9 +29,9 @@ This project is valuable for:
 
 **Data Details & Methodology** 🔍
 
-Dataset Details: Covers 219 players across 16 teams from the 2022 T20 World Cup.
+**Dataset Details:** Covers 219 players across 16 teams from the 2022 T20 World Cup.
 
-Data Preprocessing: 
+**Data Preprocessing:** 
 - Handling missing values, duplicates, and data standardization.
 - Feature engineering for metrics like strike rates, economy rates, and total boundaries.
 - Merging datasets to create a unified database for analysis.
