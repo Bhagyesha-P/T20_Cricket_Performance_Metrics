@@ -1,11 +1,13 @@
 # T20_Cricket_Performance_Metrics
 
 **Project Overview** 🏏📊
+
 This project focuses on analyzing and visualizing T20 International cricket data using Power BI to uncover player and team performance insights. By leveraging data warehousing and business intelligence techniques, we aim to provide comprehensive insights into key metrics like runs, strike rates, wickets, economy rates, and match outcomes.
 
 Cricket is more than just a sport; it's a data-rich game that demands deep analytical insights. This project empowers fans, analysts, and decision-makers to make data-driven conclusions about player and team performances, trends, and strategies.
 
 **Key Features** 🚀
+
 ✔ Player & Team Analysis – Examine top batters, bowlers, and all-rounders based on performance metrics.
 ✔ Performance Trends – Analyze strike rates, economy rates, and scoring patterns across multiple matches.
 ✔ Interactive Dashboards – Explore insights using dynamic Power BI visualizations for easy interpretation.
